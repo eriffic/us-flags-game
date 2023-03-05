@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>US Flags</title>
+    <!-- Google Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="stats-container">
+        <div id="moves-count"></div>
+        <div id="time"></div>
+      </div>
+      <div class="game-container">
+          <!-- Title -->
+          <h1>Guess the US Flag</h1>
+          <!-- Features -->
+          <div class="box">
+            <h4>Score: <span></span></h4>
+            <div class="count"><h4>Flags: <span></span></h4></div>
+          </div>
+          <!-- Flags -->
+            <div class="flags">
+              <div class="flag-img">
+                <img src="">
+              </div>
+              <div class="flag-options">
+                <!-- Selecting the States -->
+                  <ul>
+                    <li class="button-1"></li>
+                    <li class="button-2"></li>
+                  </ul>
+              </div>
+            </div>
+            <button id="stop" class="hide">Stop Game</button>
+        </div>
+        <!-- Scoring System -->
+        <div class="score">
+          <h3 class="right">Your Right Answers: <span></span></h3>
+          <h3 class="incorrect">Your Incorrect Answers: <span></span></h3>
+          <button id="newGame">New Game</button>
+        </div>
+      </div>
+     <div class="controls-container">
+      <p id="result"></p>
+      <button id="start">Start Game</button>
+    </div>
+    <!-- Script -->
+    <script src="js/script.js"></script>
+  </body>
+</html>

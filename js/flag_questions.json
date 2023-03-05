@@ -1,0 +1,427 @@
+[
+    {
+        "img": "alabama.png",
+        "options": [
+            "alabama",
+            "alaska"
+        ],
+        "right_answer": "alabama"
+    },
+    {
+        "img": "alaska.png",
+        "options": [
+            "wyoming",
+            "alaska"
+            
+        ],
+        "right_answer": "alaska"
+    },
+    
+    {
+        "img": "arizona.png",
+        "options": [
+            "new mexico",
+            "arizona"
+            
+        ],
+        "right_answer": "arizona"
+    },
+    
+    {
+        "img": "arkansas.png",
+        "options": [
+            "arkansas",
+            "texas"
+            
+        ],
+        "right_answer": "arkansas"
+    },
+    {
+        "img": "california.png",
+        "options": [
+            "california",
+            "montana"
+            
+        ],
+        "right_answer": "california"
+    },
+    {
+        "img": "colorado.png",
+        "options": [
+            "colorado",
+            "connecticut"
+            
+        ],
+        "right_answer": "colorado"
+    },
+    {
+        "img": "connecticut.png",
+        "options": [
+            "colorado",
+            "connecticut"
+            
+        ],
+        "right_answer": "connecticut"
+    },
+    {
+        "img": "delaware.png",
+        "options": [
+            "south dakota",
+            "delaware"
+            
+        ],
+        "right_answer": "delaware"
+    },
+    {
+        "img": "florida.png",
+        "options": [
+            "florida",
+            "alabama"
+            
+        ],
+        "right_answer": "florida"
+    },
+    {
+        "img": "hawaii.png",
+        "options": [
+            "hawaii",
+            "oregon"
+            
+        ],
+        "right_answer": "hawaii"
+    },
+    {
+        "img": "idaho.png",
+        "options": [
+            "utah",
+            "idaho"
+            
+        ],
+        "right_answer": "idaho"
+    },
+    {
+        "img": "illinois.png",
+        "options": [
+            "illinois",
+            "iowa"
+            
+        ],
+        "right_answer": "illinois"
+    },
+    {
+        "img": "indiana.png",
+        "options": [
+            "vermont",
+            "indiana"
+            
+        ],
+        "right_answer": "indiana"
+    },
+    {
+        "img": "iowa.png",
+        "options": [
+            "iowa",
+            "virginia"
+            
+        ],
+        "right_answer": "iowa"
+    },
+    {
+        "img": "kansas.png",
+        "options": [
+            "new york",
+            "kansas"
+            
+        ],
+        "right_answer": "kansas"
+    },
+    {
+        "img": "kentucky.png",
+        "options": [
+            "maine",
+            "kentucky"
+            
+        ],
+        "right_answer": "kentucky"
+    },
+    {
+        "img": "louisiana.png",
+        "options": [
+            "michigan",
+            "louisiana"
+            
+        ],
+        "right_answer": "louisiana"
+    },
+    {
+        "img": "maine.png",
+        "options": [
+            "maine",
+            "connecticut"
+            
+        ],
+        "right_answer": "maine"
+    },
+    {
+        "img": "maryland.png",
+        "options": [
+            "new jersey",
+            "maryland"
+            
+        ],
+        "right_answer": "maryland"
+    },
+    {
+        "img": "massachusetts.png",
+        "options": [
+            "massachusetts",
+            "illinois"
+            
+        ],
+        "right_answer": "massachusetts"
+    },
+    {
+        "img": "michigan.png",
+        "options": [
+            "vermnont",
+            "michigan"
+            
+        ],
+        "right_answer": "michigan"
+    },
+    {
+        "img": "minnesota.png",
+        "options": [
+            "minnesota",
+            "oklahoma"
+            
+        ],
+        "right_answer": "minnesota"
+    },
+    {
+        "img": "mississippi.png",
+        "options": [
+            "tennessee",
+            "mississippi"
+            
+        ],
+        "right_answer": "mississippi"
+    },
+    {
+        "img": "montana.png",
+        "options": [
+            "montana",
+            "nebraska"
+            
+        ],
+        "right_answer": "montana"
+    },
+    {
+        "img": "nebraska.png",
+        "options": [
+            "nebraska",
+            "kansas"
+            
+        ],
+        "right_answer": "nebraska"
+    },
+    {
+        "img": "nevada.png",
+        "options": [
+            "nevada",
+            "nebraska"
+            
+        ],
+        "right_answer": "nevada"
+    },
+    {
+        "img": "new_hampshire.png",
+        "options": [
+            "michigan",
+            "new hampshire"
+            
+        ],
+        "right_answer": "new hampshire"
+    },
+    {
+        "img": "new_jersey.png",
+        "options": [
+            "new jersey",
+            "maryland"
+            
+        ],
+        "right_answer": "new jersey"
+    },
+    {
+        "img": "new_york.png",
+        "options": [
+            "north dakota",
+            "new york"
+            
+        ],
+        "right_answer": "new york"
+    },
+    {
+        "img": "north_carolina.png",
+        "options": [
+            "missouri",
+            "north carolina"
+            
+        ],
+        "right_answer": "north carolina"
+    },
+    {
+        "img": "north_dakota.png",
+        "options": [
+            "north carolina",
+            "north dakota"
+            
+        ],
+        "right_answer": "north dakota"
+    },
+    {
+        "img": "ohio.png",
+        "options": [
+            "mississippi",
+            "ohio"
+            
+        ],
+        "right_answer": "ohio"
+    },
+    {
+        "img": "oklahoma.png",
+        "options": [
+            "oklahoma",
+            "delaware"
+            
+        ],
+        "right_answer": "oklahoma"
+    },
+    {
+        "img": "oregon.png",
+        "options": [
+            "vermont",
+            "oregon"
+            
+        ],
+        "right_answer": "oregon"
+    },
+    {
+        "img": "pennsylvania.png",
+        "options": [
+            "pennsylvania",
+            "oregon"
+            
+        ],
+        "right_answer": "pennsylvania"
+    },
+    {
+        "img": "rhode_island.png",
+        "options": [
+            "rhode island",
+            "indiana"
+            
+        ],
+        "right_answer": "rhode island"
+    },
+    {
+        "img": "south_carolina.png",
+        "options": [
+            "south carolina",
+            "north carolina"
+            
+        ],
+        "right_answer": "south carolina"
+    },
+    {
+        "img": "south_dakota.png",
+        "options": [
+            "north dakota",
+            "south dakota"
+            
+        ],
+        "right_answer": "south dakota"
+    },
+    {
+        "img": "tennessee.png",
+        "options": [
+            "tennessee",
+            "askansas"
+            
+        ],
+        "right_answer": "tennessee"
+    },
+    {
+        "img": "texas.png",
+        "options": [
+            "texas",
+            "tennessee"
+            
+        ],
+        "right_answer": "texas"
+    },
+    {
+        "img": "utah.png",
+        "options": [
+            "new hampshire",
+            "utah"
+            
+        ],
+        "right_answer": "utah"
+    },
+    {
+        "img": "vermont.png",
+        "options": [
+            "vermont",
+            "pennsylvania"
+            
+        ],
+        "right_answer": "vermont"
+    },
+    {
+        "img": "virginia.png",
+        "options": [
+            "michigan",
+            "virginia"
+            
+        ],
+        "right_answer": "virginia"
+    },
+    {
+        "img": "washington.png",
+        "options": [
+            "washington",
+            "hawaii"
+            
+        ],
+        "right_answer": "washington"
+    },
+    {
+        "img": "west_virginia.png",
+        "options": [
+            "west virginia",
+            "ohio"
+            
+        ],
+        "right_answer": "west virginia"
+    },
+    {
+        "img": "wisconsin.png",
+        "options": [
+            "idaho",
+            "wisconsin"
+            
+        ],
+        "right_answer": "wisconsin"
+    },
+    {
+        "img": "wyoming.png",
+        "options": [
+            "wyoming",
+            "colorado"
+            
+        ],
+        "right_answer": "wyoming"
+    }
+    
+]
