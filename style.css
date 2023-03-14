@@ -27,7 +27,7 @@ h1 {
   text-align: center;
   font-size: 2rem;
   text-transform: capitalize;
-  color: var(--violet);
+  color: #1DA1F2;
   /* padding: 2rem 0; */
 }
 
@@ -35,7 +35,7 @@ h4 {
   font-size: 1.5rem;
   padding: .5rem 0;
   text-transform: capitalize;
-  color: var(--violet);
+  color: #1DA1F2;
   padding: .5rem;
 }
 
