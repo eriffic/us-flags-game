@@ -145,6 +145,12 @@ button {
   background-color: #000000;
   color: #ffffff;
 }
+
+#start {
+  background-color: #000000;
+  color: #ffffff;
+}
+
 .controls-container button {
   font-size: 1.3em;
   box-shadow: 0 0.6em 2em rgba(86, 66, 0, 0.2);
